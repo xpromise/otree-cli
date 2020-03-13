@@ -1,4 +1,4 @@
-# otree
+# otree-cli
 
 生成目录文件树信息
 
